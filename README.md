@@ -71,15 +71,15 @@ pip install -r requirements.txt
 
 ### 4. Execute a versão desejada
 
-## Com API (transcrição + resumo):
+#### Com API (transcrição + resumo):
 python api_analisador.py
 
-## Local (somente transcrição):
+#### Local (somente transcrição):
 
 python local_analisador.py
 
 
-🧪 Teste Gratuito
+## 🧪 Teste Gratuito
 Se não quiser usar a API da OpenAI:
 
 Use local_analisador.py para transcrever sem custo.
@@ -90,7 +90,7 @@ Claude (Anthropic)
 Gemini (Google)
 ChatGPT Free (GPT-3.5)
 
-🔐 OpenAI API Key
+## 🔐 OpenAI API Key
 Para usar a versão api_analisador.py, você precisará de uma chave da OpenAI:
 
 1. Crie uma conta em https://platform.openai.com/
@@ -106,4 +106,5 @@ Este projeto está sob a licença MIT.
 Sinta-se à vontade para usar, modificar e compartilhar!
 
 Desenvolvido por Vítor Passeri de Souza Kaluf
+
 
