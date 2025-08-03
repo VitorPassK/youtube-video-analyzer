@@ -60,7 +60,7 @@ cd youtube-analisador
 
 python -m venv .venv
 source .venv/Scripts/activate  # No Windows
-# ou
+#### ou
 source .venv/bin/activate      # No Linux/macOS
 
 
@@ -106,6 +106,7 @@ Este projeto está sob a licença MIT.
 Sinta-se à vontade para usar, modificar e compartilhar!
 
 Desenvolvido por Vítor Passeri de Souza Kaluf
+
 
 
 
